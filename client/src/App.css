@@ -1,6 +1,19 @@
-.App {
+/*.App {
   text-align: center;
+}*/
+
+/* General Page Styles */
+
+/* ------------------------------------------ */
+
+.container {
+  margin-top: 50px;
+  border: solid 1px black;
+  border-radius: 10px;
+  padding: 10px 20px;
 }
+
+
 
 /* Navbar Styles */
 
@@ -50,16 +63,15 @@
 /* About Me Styles */
 /*----------------------------------------------*/
 
-.about {
-  margin-top: 50px;
-  border: solid 1px black;
-  border-radius: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
 #me {
   max-width: 100%;
   height: auto;
   border-radius: 10px;
+}
+
+/* Contact Page Styles */
+/*----------------------------------------------*/
+
+.contact-link {
+  margin-right: 20px;
 }
