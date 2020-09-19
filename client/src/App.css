@@ -84,6 +84,14 @@
   height: auto;
 }
 
+.portfolio {
+  margin-bottom: 30px;
+}
+
+.row {
+  margin-top: 20px;
+}
+
 .button-container {
   display: flex;
   justify-content: space-around;
